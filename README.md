@@ -1,6 +1,6 @@
 
 ### Table of Contents
-
+###Editing for DS Nanodegree practice
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
